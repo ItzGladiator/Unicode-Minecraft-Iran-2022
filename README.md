@@ -5,6 +5,7 @@
  Always Unicode updated 
 
 > - <h2>Preview ¦ پیشنمایش</h2>
+توی پیش نمایش کیفیت پایینه حتما تو ماین تست کنید
 
 [![](https://s6.uupload.ir/files/img_20220605_174454_078_t58.jpg)](https://s6.uupload.ir/files/img_20220605_174454_078_t58.jpg)
 
